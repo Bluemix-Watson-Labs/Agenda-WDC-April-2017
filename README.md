@@ -13,6 +13,7 @@ Agenda of  two-day Watson Developer Cloud workshop
   * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
 * 11:15 a.m. - 12:00 p.m.
   * Natural Language Understanding app - Helen
+  * Video: https://www.youtube.com/watch?v=MB4ynlq52C4
   * Natural Language Lab: https://medium.com/@helenflam/alchemy-language-9e5c1c01340d
 * 12:00 p.m. - 1:00 p.m.
   * Lunch!
