@@ -32,12 +32,7 @@ Agenda of  two-day Watson Developer Cloud workshop
   * Lab: https://github.com/Bluemix-Watson-Labs/Natural-Language-Classifier-Lab
 
 ## Day Two: Apri 28th, 2017
-* 8:00 - 8:15 a.m.
-  * Refreshments
-* 8:15 a.m. - 9:45 a.m.
-  * Retrieve and Rank App - Helen and Subashan
-  * Background: https://medium.com/@helenflam/retrieve-rank-492f6178dfcd#.hrqgi5w39
-  * Actual lab: https://github.com/Bluemix-Watson-Labs/Retrieve-And-Rank-Lab
+
 * 9:45 a.m. - 9:55 a.m.
   * Break
 * 9:55 a.m. - 11:00 p.m.
